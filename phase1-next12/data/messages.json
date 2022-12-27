@@ -1,0 +1,73 @@
+[
+    {
+        "id": "1",
+        "senderID": "501",
+        "recepientID": "1",
+        "text": "Great job today! ",
+        "date": "Mon Dec 12 2022 - 5:39:26 PM"
+    },
+    {
+        "id": "2",
+        "senderID": "501",
+        "recepientID": "2",
+        "text": "Hello",
+        "date": "Mon Dec 12 2022 - 5:39:26 PM"
+    },
+    {
+        "id": "2",
+        "senderID": "501",
+        "recepientID": "2",
+        "text": "How are you?",
+        "date": "Mon Dec 12 2022 - 5:39:26 PM"
+    },
+    {
+        "id": "2",
+        "senderID": "501",
+        "recepientID": "2",
+        "text": "Check your new tasks :)",
+        "date": "Mon Dec 12 2022 - 5:39:26 PM"
+    },
+    {
+        "id": "9f75d45d-841e-426a-8765-372da4a5a8cf",
+        "text": "Check your new tasks!",
+        "senderID": 501,
+        "recepientID": 7,
+        "date": "Mon Dec 19 2022 - 12:08:28 AM"
+    },
+    {
+        "id": "0a1153e6-1380-4c84-bbe7-7314abff9eb1",
+        "text": "Check your tasks today :)!!!",
+        "senderID": 501,
+        "recepientID": 5,
+        "date": "Mon Dec 19 2022 - 1:26:25 AM"
+    },
+    {
+        "id": "e06952ad-7b50-4ffd-afeb-978751209ad4",
+        "text": "Hey Ibn Abbas, i have assigned a Task for you!",
+        "senderID": 501,
+        "recepientID": 3,
+        "date": "Wed Dec 21 2022 - 9:55:20 PM"
+    },
+    {
+        "id": "4fa65c3d-110d-4d79-a99b-878c4569f19d",
+        "text": "Hello There ya bnty",
+        "senderID": 501,
+        "recepientID": 3,
+        "date": "Wed Dec 21 2022 - 10:13:46 PM"
+    },
+    {
+        "id": "4b3f47c2-39f9-4812-9948-3d76979675d5",
+        "senderID": 501,
+        "recepientID": 7,
+        "text": "Ibn Juha did well today!",
+        "date": "Sat Dec 24 2022 - 12:59:34 AM"
+    },
+    {
+        "id": "d03c8d14-4910-4f2a-8aeb-d984bd1256ec",
+        "text": "You can check your feedback and grading by 25th of May",
+        "images": [],
+        "senderID": 501,
+        "recepientID": 2,
+        "date": "Sat Dec 24 2022 - 1:42:03 PM"
+    }
+]
